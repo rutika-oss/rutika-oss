@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **manerutika48@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vhcbqx7-e8TSp7hfKi7Rv5AnOZTpfNXT/view?usp=sharing](https://drive.google.com/file/d/1vhcbqx7-e8TSp7hfKi7Rv5AnOZTpfNXT/view?usp=sharing)
-
 - ⚡ Fun fact **Tried Docker (which many beginners avoid!)**
 
 <h3 align="left">Connect with me:</h3>
